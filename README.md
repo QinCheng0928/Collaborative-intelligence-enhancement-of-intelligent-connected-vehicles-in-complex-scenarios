@@ -8,28 +8,23 @@
 
 ### 1.1 🛣️ 场景一：四车直行通行
 
-<video controls width="480">
-  <source src="https://github.com/QinCheng0928/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/tree/main/videos/full_autonomous/individual_intelligence/straight.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 <div align="center">
-  <video src="https://github.com/QinCheng0928/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/tree/main/videos/full_autonomous/individual_intelligence/straight.mp4" controls width="480"></video>
-  <video src="https://github.com/QinCheng0928/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/tree/main/videos/full_autonomous/collaborative_intelligence/straight.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/ull_autonomous/individual_intelligence/straight.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/full_autonomous/collaborative_intelligence/straight.mp4" controls width="480"></video>
 </div>
 
 ### 1.2 ↩️ 场景二：四车左转通行
 
 <div align="center">
-  <video src="./videos/full_autonomous/individual_intelligence/left.mp4" controls width="480"></video>
-  <video src="./videos/full_autonomous/collaborative_intelligence/left.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/full_autonomous/individual_intelligence/left.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/full_autonomous/collaborative_intelligence/left.mp4" controls width="480"></video>
 </div>
 
 ### 1.3 🔀 场景三：四车混合通行
 
 <div align="center">
-  <video src="./videos/full_autonomous/individual_intelligence/mixed.mp4" controls width="480"></video>
-  <video src="./videos/full_autonomous/collaborative_intelligence/mixed.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/full_autonomous/individual_intelligence/mixed.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/full_autonomous/collaborative_intelligence/mixed.mp4" controls width="480"></video>
 </div>
 
 ## 2. 人机混驾环境
@@ -37,20 +32,20 @@
 ### 2.1 🛣️ 场景一：四车直行通行
 
 <div align="center">
-  <video src="./videos/human_vehicle_mixed/individual_intelligence/straight.mp4" controls width="480"></video>
-  <video src="./videos/human_vehicle_mixed/collaborative_intelligence/straight.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/human_vehicle_mixed/individual_intelligence/straight.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/human_vehicle_mixed/collaborative_intelligence/straight.mp4" controls width="480"></video>
 </div>
 
 ### 2.2 ↩️ 场景二：四车左转通行
 
 <div align="center">
-  <video src="./videos/human_vehicle_mixed/individual_intelligence/left.mp4" controls width="480"></video>
-  <video src="./videos/human_vehicle_mixed/collaborative_intelligence/left.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/human_vehicle_mixed/individual_intelligence/left.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/human_vehicle_mixed/collaborative_intelligence/left.mp4" controls width="480"></video>
 </div>
 
 ### 2.3 🔀 场景三：四车混合通行
 
 <div align="center">
-  <video src="./videos/human_vehicle_mixed/individual_intelligence/mixed.mp4" controls width="480"></video>
-  <video src="./videos/human_vehicle_mixed/collaborative_intelligence/mixed.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/human_vehicle_mixed/individual_intelligence/mixed.mp4" controls width="480"></video>
+  <video src="https://qincheng0928.github.io/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/videos/human_vehicle_mixed/collaborative_intelligence/mixed.mp4" controls width="480"></video>
 </div>

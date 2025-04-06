@@ -3,13 +3,12 @@
 
 视频左侧展示的是单车智能车辆的表现，右侧展示协同增强车辆的表现。绿色代表协同增强车辆，黄色代表单车智能车辆，而蓝色代表人类驾驶车辆。通过这种方式，我们能够清晰地对比这两种算法在三种典型场景（四车直行、四车左转、四车混合通过）中的差异，直观地感受不同算法在不同驾驶环境下的表现。
 
-
 ## 1. 完全自动驾驶环境
 
 ### 1.1 🛣️ 场景一：四车直行通行
 
 <div align="center">
-  <video src="./videos/ull_autonomous/individual_intelligence/straight.mp4" controls width="480"></video>
+  <video src="./videos/full_autonomous/individual_intelligence/straight.mp4" controls width="480"></video>
   <video src="./videos/full_autonomous/collaborative_intelligence/straight.mp4" controls width="480"></video>
 </div>
 

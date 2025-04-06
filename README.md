@@ -8,22 +8,22 @@
 ### 1.1 🛣️ 场景一：四车直行通行
 
 <div align="center">
-  <video src="./videos/full_autonomous/individual_intelligence/straight.mp4" controls width="480" loop></video>
-  <video src="./videos/full_autonomous/collaborative_intelligence/straight.mp4" controls width="480" loop></video>
+  <video src="./videos/full_autonomous/individual_intelligence/straight.mp4" controls width="480" loop autoplay></video>
+  <video src="./videos/full_autonomous/collaborative_intelligence/straight.mp4" controls width="480" loop autoplay></video>
 </div>
 
 ### 1.2 ↩️ 场景二：四车左转通行
 
 <div align="center">
-  <video src="./videos/full_autonomous/individual_intelligence/left.mp4" controls width="480" loop></video>
-  <video src="./videos/full_autonomous/collaborative_intelligence/left.mp4" controls width="480" loop></video>
+  <video src="./videos/full_autonomous/individual_intelligence/left.mp4" controls width="480" loop autoplay></video>
+  <video src="./videos/full_autonomous/collaborative_intelligence/left.mp4" controls width="480" loop autoplay></video>
 </div>
 
 ### 1.3 🔀 场景三：四车混合通行
 
 <div align="center">
-  <video src="./videos/full_autonomous/individual_intelligence/mixed.mp4" controls width="480" loop></video>
-  <video src="./videos/full_autonomous/collaborative_intelligence/mixed.mp4" controls width="480" loop></video>
+  <video src="./videos/full_autonomous/individual_intelligence/mixed.mp4" controls width="480" loop autoplay></video>
+  <video src="./videos/full_autonomous/collaborative_intelligence/mixed.mp4" controls width="480" loop autoplay></video>
 </div>
 
 ## 2. 人机混驾环境
@@ -31,20 +31,20 @@
 ### 2.1 🛣️ 场景一：四车直行通行
 
 <div align="center">
-  <video src="./videos/human_vehicle_mixed/individual_intelligence/straight.mp4" controls width="480" loop></video>
-  <video src="./videos/human_vehicle_mixed/collaborative_intelligence/straight.mp4" controls width="480" loop></video>
+  <video src="./videos/human_vehicle_mixed/individual_intelligence/straight.mp4" controls width="480" loop autoplay></video>
+  <video src="./videos/human_vehicle_mixed/collaborative_intelligence/straight.mp4" controls width="480" loop autoplay></video>
 </div>
 
 ### 2.2 ↩️ 场景二：四车左转通行
 
 <div align="center">
-  <video src="./videos/human_vehicle_mixed/individual_intelligence/left.mp4" controls width="480" loop></video>
-  <video src="./videos/human_vehicle_mixed/collaborative_intelligence/left.mp4" controls width="480" loop></video>
+  <video src="./videos/human_vehicle_mixed/individual_intelligence/left.mp4" controls width="480" loop autoplay></video>
+  <video src="./videos/human_vehicle_mixed/collaborative_intelligence/left.mp4" controls width="480" loop autoplay></video>
 </div>
 
 ### 2.3 🔀 场景三：四车混合通行
 
 <div align="center">
-  <video src="./videos/human_vehicle_mixed/individual_intelligence/mixed.mp4" controls width="480" loop></video>
-  <video src="./videos/human_vehicle_mixed/collaborative_intelligence/mixed.mp4" controls width="480" loop></video>
+  <video src="./videos/human_vehicle_mixed/individual_intelligence/mixed.mp4" controls width="480" loop autoplay></video>
+  <video src="./videos/human_vehicle_mixed/collaborative_intelligence/mixed.mp4" controls width="480" loop autoplay></video>
 </div>

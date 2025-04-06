@@ -9,8 +9,8 @@
 ### 1.1 🛣️ 场景一：四车直行通行
 
 <div align="center">
-  <video src="./videos/full_autonomous/individual_intelligence/straight.mp4" controls width="480"></video>
-  <video src="./videos/full_autonomous/collaborative_intelligence/straight.mp4" controls width="480"></video>
+  <video src="https://github.com/QinCheng0928/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/tree/main/videos/full_autonomous/individual_intelligence/straight.mp4" controls width="480"></video>
+  <video src="https://github.com/QinCheng0928/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/tree/main/videos/full_autonomous/collaborative_intelligence/straight.mp4" controls width="480"></video>
 </div>
 
 ### 1.2 ↩️ 场景二：四车左转通行

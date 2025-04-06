@@ -8,6 +8,11 @@
 
 ### 1.1 🛣️ 场景一：四车直行通行
 
+<video controls width="480">
+  <source src="https://github.com/QinCheng0928/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/tree/main/videos/full_autonomous/individual_intelligence/straight.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <div align="center">
   <video src="https://github.com/QinCheng0928/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/tree/main/videos/full_autonomous/individual_intelligence/straight.mp4" controls width="480"></video>
   <video src="https://github.com/QinCheng0928/Collaborative-intelligence-enhancement-of-intelligent-connected-vehicles-in-complex-scenarios/tree/main/videos/full_autonomous/collaborative_intelligence/straight.mp4" controls width="480"></video>

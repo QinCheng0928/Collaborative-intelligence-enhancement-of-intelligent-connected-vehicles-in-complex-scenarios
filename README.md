@@ -13,21 +13,18 @@
   <video src="./videos/full_autonomous/individual_intelligence/straight.mp4" controls width="480" loop autoplay></video>
   <video src="./videos/full_autonomous/collaborative_intelligence/straight.mp4" controls width="480" loop autoplay></video>
 </div>
-
 ### 1.2 场景二：四车左转通行
 
 <div align="center">
   <video src="./videos/full_autonomous/individual_intelligence/left.mp4" controls width="480" loop autoplay></video>
   <video src="./videos/full_autonomous/collaborative_intelligence/left.mp4" controls width="480" loop autoplay></video>
 </div>
-
 ### 1.3 场景三：四车混合通行
 
 <div align="center">
   <video src="./videos/full_autonomous/individual_intelligence/mixed.mp4" controls width="480" loop autoplay></video>
   <video src="./videos/full_autonomous/collaborative_intelligence/mixed.mp4" controls width="480" loop autoplay></video>
 </div>
-
 ## 2. 人机混驾环境
 
 ### 2.1 场景一：四车直行通行
@@ -36,33 +33,27 @@
   <video src="./videos/human_vehicle_mixed/individual_intelligence/straight.mp4" controls width="480" loop autoplay></video>
   <video src="./videos/human_vehicle_mixed/collaborative_intelligence/straight.mp4" controls width="480" loop autoplay></video>
 </div>
-
 ### 2.2 场景二：四车左转通行
 
 <div align="center">
   <video src="./videos/human_vehicle_mixed/individual_intelligence/left.mp4" controls width="480" loop autoplay></video>
   <video src="./videos/human_vehicle_mixed/collaborative_intelligence/left.mp4" controls width="480" loop autoplay></video>
 </div>
-
 ### 2.3 场景三：四车混合通行
 
 <div align="center">
   <video src="./videos/human_vehicle_mixed/individual_intelligence/mixed.mp4" controls width="480" loop autoplay></video>
   <video src="./videos/human_vehicle_mixed/collaborative_intelligence/mixed.mp4" controls width="480" loop autoplay></video>
 </div>
-# 3. 同济大学测试场仿真环境
+## 3. 同济大学测试场仿真环境
 
 ### 3.1 场景一：HV为第一辆通过交叉口的车辆（激进驾驶员）
 
   <video src="./videos/carla/levelkPPO_HV_1st_processed.mp4" controls width="480" loop autoplay></video>
 
-
-
 ### 3.2 场景二：HV为第三辆通过交叉口的车辆（中性驾驶员）
 
   <video src="./videos/carla/levelkPPO_HV_3rd_processed.mp4" controls width="480" loop autoplay></video>
-
-
 
 ### 3.3 场景三：HV为第四辆通过交叉口的车辆（保守驾驶员）
 
